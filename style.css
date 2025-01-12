@@ -177,7 +177,7 @@ body {
 }
 /*Second Block, for main content, keep the SEO */
 .services {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(Imagenes/bg3.avif);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(Imagenes/Cafetera.avif);
   background-position: center center;
   background-repeat: no-repeat;
   background-size:cover ;
@@ -228,14 +228,14 @@ body {
   background-color: #E1E2E6;
 }
 .general-2 {
-  background-image: url(Imagenes/coffe-1.jpg);
+  background-image: url(Imagenes/Capuccino.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   width:50%;
 }
 .general-3 {
-  background-image: url(Imagenes/coffee-2.jpg);
+  background-image: url(Imagenes/Capuccino.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
