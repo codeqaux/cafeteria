@@ -17,7 +17,7 @@ body {
 .header {  /* Agrego the imagen de fondo asociada al header | Set the background image relatives at header section*/
   display: flex;
   flex-direction: column;
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Imagenes/bg.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Imagenes/CafeServices.jpg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
